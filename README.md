@@ -1,5 +1,3 @@
-
-
 #  Tickets — Microservices 
 
 ### *Event-Driven Microservices with Node.js, TypeScript, NATS, Kubernetes & Next.js*
